@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 sonuc.json
 log.csv
+Screenshot_*.png
